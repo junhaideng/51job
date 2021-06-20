@@ -1,7 +1,7 @@
 package main
 
 import (
-	"51job/job"
+	"github.com/junhaideng/51job/job"
 	"flag"
 	"os"
 

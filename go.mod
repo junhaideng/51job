@@ -1,4 +1,4 @@
-module 51job
+module github.com/junhaideng/51job
 
 go 1.16
 

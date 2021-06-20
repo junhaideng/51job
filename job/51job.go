@@ -1,8 +1,8 @@
 package job
 
 import (
-	"51job/internal"
-	"51job/utils"
+	"github.com/junhaideng/51job/internal"
+	"github.com/junhaideng/51job/utils"
 	"encoding/json"
 	"fmt"
 	"io"
